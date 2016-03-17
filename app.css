@@ -48,6 +48,7 @@ h1,h2,h3,h4,p,button{
 }
 .twoPage-course img{
     height: 400px;
+    width: 450px;
 }
 .twoPage-btn{
     text-align: center;
